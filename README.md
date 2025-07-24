@@ -1,5 +1,4 @@
-# 💫 About Me:
-# 👋 Sobre mim<br><br>Olá! Sou **desenvolvedor back-end** de 22 anos, estudante de **Análise e Desenvolvimento de Sistemas** (5º período) e fundador da **Sample School**. Atualmente **busco oportunidades de estágio** em Recife-PE para expandir minha experiência e contribuir com projetos inovadores.<br><br>## 
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joaoamaralreiss) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joaoamaral051@gmail.com) 
